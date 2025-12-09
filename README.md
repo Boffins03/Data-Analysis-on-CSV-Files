@@ -1,4 +1,4 @@
-# Task 5: Data Analysis on CSV Files
+# Task 5: Data Analysis on CSV File
 
 ## Objective
 Analyze sales data from a CSV file using Python and Pandas to gain basic insights and visualize trends.
